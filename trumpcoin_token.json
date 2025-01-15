@@ -1,0 +1,20 @@
+{
+    "name": "TrumpCoin",
+    "symbol": "TRUMP",
+    "description": "TrumpCoin is a meme coin celebrating Donald Trump's return to office on January 20th. It's designed to capture the essence of the Trump movement with a touch of humor and a lot of promise.",
+    "image": "https://drive.google.com/file/d/1RFBLAtIIJcvNBlkYw-k7RPuzwzKDVRfR/view?usp=sharing",
+    "attributes": [
+        {
+            "trait_type": "Purpose",
+            "value": "Memetic Fun"
+        },
+        {
+            "trait_type": "Celebration",
+            "value": "Trump 2025"
+        },
+        {
+            "trait_type": "Token Type",
+            "value": "Meme Coin"
+        }
+    ]
+}
