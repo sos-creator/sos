@@ -1,20 +1,30 @@
 {
-    "name": "TrumpCoin",
-    "symbol": "TRUMP",
-    "description": "TrumpCoin is a meme coin celebrating Donald Trump's return to office on January 20th. It's designed to capture the essence of the Trump movement with a touch of humor and a lot of promise.",
-    "image": "https://drive.google.com/file/d/1RFBLAtIIJcvNBlkYw-k7RPuzwzKDVRfR/view?usp=sharing",
-    "attributes": [
-        {
-            "trait_type": "Purpose",
-            "value": "Memetic Fun"
-        },
-        {
-            "trait_type": "Celebration",
-            "value": "Trump 2025"
-        },
-        {
-            "trait_type": "Token Type",
-            "value": "Meme Coin"
-        }
+  "name": "Trump Token",
+  "symbol": "TRUMP",
+  "description": "Trump Token is a Solana-based cryptocurrency designed for trading and community engagement.",
+  "image": "https://example.com/trump-token-image.png",
+  "attributes": [
+    {
+      "trait_type": "Purpose",
+      "value": "Trading"
+    },
+    {
+      "trait_type": "Community",
+      "value": "Global"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "2j2Ngx8nZvdJ6AFZgV9FLnJz4QLSvGAuwmvwkCkBUdMH",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://drive.google.com/file/d/1RFBLAtIIJcvNBlkYw-k7RPuzwzKDVRfR/view?usp=sharing",
+        "type": "image/png"
+      }
     ]
+  }
 }
